@@ -1,0 +1,19 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "description": "Next level components made",
+  "repository": "github:adamgen/rezilion-components",
+  "main": "dist/index.js",
+  "scripts": {
+    "tsc": "tsc -p tsconfig.json",
+    "tsc:w": "tsc -w -p tsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adamgen/tsbase": "^1.0.2",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.2"
+  }
+}
